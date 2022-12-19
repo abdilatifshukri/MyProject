@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     function fetchData(){
-        fetch('http://localhost:3000/players')
+        fetch('https://api.npoint.io/e63965b6eea20ecdb285')
         .then(res => res.json())
         .then(data => renderPlayers(data))
     }
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     
     function fetchAwardData(){
-        fetch('http://localhost:3000/players')
+        fetch('https://api.npoint.io/e63965b6eea20ecdb285')
         .then(res => res.json())
         .then(data => renderAwards(data))
     } 
