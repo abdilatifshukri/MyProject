@@ -291,3 +291,72 @@ box-shadow: inset 5px 5px 10px #001f3e,
 .tally:hover {
   background-color: #68bbe3;
 }
+
+/* Styling login form */
+
+.login-div {
+    margin-left: 500px;
+    margin-top: 75px;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+  background: #003060;
+  box-shadow: inset 8px 8px 16px #001326,
+              inset -8px -8px 16px #004d9a;
+  }
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    
+  }
+  .login-p {
+    margin-bottom: -6px;
+    margin-left: -120px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #d4e6f5;
+  
+  }
+  .login-input {
+    width: 250px;
+    height: 25px;
+    font-size: 17px;
+    color: #d4e6f5;
+    border-radius: 10px;
+  background: linear-gradient(145deg, #003367, #002b56);
+  box-shadow:  9px 9px 18px #001326,
+               -9px -9px 18px #004d9a;
+  }
+  .login-input:hover {
+    border-radius: 10px;
+  background: linear-gradient(145deg, #003367, #002b56);
+  box-shadow:  9px 9px 18px #001326,
+               -9px -9px 18px #004d9a;
+  }
+  .login {
+    margin-top: 20px;
+    height: 30px;
+    width: 80px;
+    font-size: 17px;
+    border: #003060;
+    color: #d4e6f5;
+    border-radius: 10px;
+  background: linear-gradient(145deg, #003367, #002b56);
+  box-shadow:  9px 9px 18px #001326,
+               -9px -9px 18px #004d9a;
+  }
+  .login:hover {
+    border-radius: 10px;
+  background: linear-gradient(145deg, #0f8fe3, #0d79bf);
+  box-shadow:  9px 9px 18px #063655,
+               -9px -9px 18px #16d6ff;
+  }
+  h1 {
+    margin-top: -25px;
+    color: #d4e6f5;
+  }
+  
