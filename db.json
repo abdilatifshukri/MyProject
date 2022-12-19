@@ -1,0 +1,150 @@
+{
+    "players": [
+        {
+            "Name": "mohamed salah",
+            "Image": "/Project/salah.jpeg",
+            "Age": 30,
+            "Position": "Midfielder",
+            "Goals": 15,
+            "Assist": 8
+        },
+        {
+            "Name": "sadio mane",
+            "Image": "/Project/mane.jpeg",
+            "Age": 32,
+            "Position": "Midfielder",
+            "Goals": 8,
+            "Assist": 4
+        },
+        
+        {
+            "Name": "trent alexander-Arnold",
+            "Image": "/Project/arnold.jpeg",
+            "Age": 28,
+            "Position": "Defender",
+            "Goals": 1,
+            "Assist": 7
+        },
+        {
+            "Name": "Roberto firminho",
+            "Image": "/Project/firminho.jpeg",
+            "Age": 31,
+            "Position": "Attacker",
+            "Goals": 11,
+            "Assist": 5
+        },
+        {
+            "Name": "   diogo jota",
+            "Image": "/Project/jota.jpeg",
+            "Age": 22,
+            "Position": "Attacker",
+            "Goals": 9,
+            "Assist": 5
+        },
+        {
+            "Name": "alex oxlande-chamberlin",
+            "Image": "/Project/chemberling.jpeg",
+            "Age": 27,
+            "Position": "Attacker",
+            "Goals": 3,
+            "Assist": 3
+        },
+        {
+            "Name": "minamino",
+            "Image": "/Project/minamino.jpeg",
+            "Age": 29,
+            "Position": "Attacker",
+            "Goals": 5,
+            "Assist": 3
+        },
+        {
+            "Name": "thiago alcantara",
+            "Image": "/Project/thiago.jpeg",
+            "Age": 28,
+            "Position": "Midfielder",
+            "Goals": 8,
+            "Assist": 4
+        },
+        {
+            "Name": "Fabinho",
+            "Image": "/Project/fabinho.jpeg",
+            "Age": 37,
+            "Position": "Midfielder",
+            "Goals": 3,
+            "Assist": 2
+        },
+        {
+            "Name": "jordan henderson",
+            "Image": "/Project/henderson.jpeg",
+            "Age": 26,
+            "Position": "Midfielder",
+            "Goals": 7,
+            "Assist": 2
+        },
+        {
+            "Name": "Naby keita",
+            "Image": "/Project/keita.jpeg",
+            "Age":29 ,
+            "Position": "Midfielder",
+            "Goals": 4,
+            "Assist": 3
+        },
+        {
+            "Name": "joel matip",
+            "Image": "/Project/matip.jpeg",
+            "Age": 25,
+            "Position": "Defender",
+            "Goals": 2,
+            "Assist": 4
+        },
+        {
+            "Name": "anderew robertson",
+            "Image": "/Project/robo.jpeg",
+            "Age": 32,
+            "Position": "Defender",
+            "Goals": 1,
+            "Assist": 2
+        },
+        {
+            "Name": "virgil van dijk",
+            "Image": "/Project/vandijk.jpeg",
+            "Age": 28,
+            "Position": "Defender",
+            "Goals": 1,
+            "Assist": 1
+        },
+        {
+            "Name": "joe gomes",
+            "Image": "/Project/jomez.jpeg",
+            "Age": 28,
+            "Position": "Defender",
+            "Goals": 4,
+            "Assist": 1
+        },
+        {
+            "Name": "konistantinos tsimikas",
+            "Image": "/Project/tisim.jpeg",
+            "Age": 27,
+            "Position": "Defender",
+            "Goals": 2,
+            "Assist": 1
+        },
+        {
+            "Name": "Alison becker",
+            "Image": "/Project/alisson.jpeg",
+            "Age": 29,
+            "Position": "Keeper",
+            "Goals": 0,
+            "Assist": 2
+        },
+        {
+            "Name": "Adrian",
+            "Image": "/Project/adrian.jpeg",
+            "Age": 37,
+            "Position": "Keeper",
+            "Goals": 0,
+            "Assist": 0
+        }
+    ]
+
+}
