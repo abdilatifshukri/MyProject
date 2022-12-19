@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+body {
+    background-color: #a0dce0;
+}
+
+/* Navigation bar styles */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #00050a;
+    height: 20px;
+    border-radius: 15px;
+background: linear-gradient(145deg, #003367, #002b56);
+box-shadow:  12px 12px 24px #001326,
+             -12px -12px 24px #004d9a;
+  }
+  
+  /* Brand name styles */
+  .brand {
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Nova Mono", sans-serif;
+  }
+  
+  /* Links styles */
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 1em;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Nova Mono", sans-serif;
+  }
