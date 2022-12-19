@@ -44,3 +44,46 @@ box-shadow:  12px 12px 24px #001326,
     color: #ffffff;
     font-family: "Nova Mono", sans-serif;
   }
+
+  /* Search form styles */
+  form {
+    display: flex;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    padding: 0.5em;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  button[type="submit"] {
+    padding: 0.5em;
+    border: none;
+    border-radius: 5px;
+    background-color: #0e86d4;
+    color: #d4e6f5;
+    margin-left: 10px;
+  }
+
+  button:hover{
+    background-color: #000000;
+  }
+
+  a:hover {
+    color: #0e86d4;
+  }
+  
+  /* Styling login link*/
+  .login-btn {
+    color: #d4e6f5;
+    background-color: #003060;
+    border: #003060;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .login-btn:hover {
+    color: #68bbe3;
+    background-color: #003060;
+  }
+
