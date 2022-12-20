@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
 
 body {
-    background-color: #a0dce0;
+    background-color: #3e4646;
 }
 
 /* Navigation bar styles */
@@ -44,9 +44,9 @@ box-shadow:  12px 12px 24px #001326,
     color: #ffffff;
     font-family: "Nova Mono", sans-serif;
   }
-
-  /* Search form styles */
-  form {
+  
+   /* Search form styles */
+   form {
     display: flex;
     align-items: center;
   }
@@ -67,7 +67,7 @@ box-shadow:  12px 12px 24px #001326,
   }
 
   button:hover{
-    background-color: #000000;
+    background-color: #58afe2;
   }
 
   a:hover {
@@ -86,4 +86,5 @@ box-shadow:  12px 12px 24px #001326,
     color: #68bbe3;
     background-color: #003060;
   }
+
 
